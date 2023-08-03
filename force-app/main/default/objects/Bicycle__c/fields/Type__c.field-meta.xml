@@ -30,6 +30,11 @@
                 <default>false</default>
                 <label>Tandem</label>
             </value>
+            <value>
+                <fullName>Triathlon</fullName>
+                <default>false</default>
+                <label>Triathlon</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
